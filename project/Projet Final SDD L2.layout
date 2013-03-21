@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="CodeCesar.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="2801" topLine="102" />
+	</File>
+	<File name="CodeCesar.h" open="1" top="0" tabpos="7">
+		<Cursor position="252" topLine="0" />
+	</File>
+	<File name="Enigma.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="10967" topLine="339" />
+	</File>
+	<File name="Enigma.h" open="1" top="0" tabpos="13">
+		<Cursor position="645" topLine="18" />
+	</File>
+	<File name="FonctionsTraitement.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="1115" topLine="0" />
+	</File>
+	<File name="FonctionsTraitement.h" open="1" top="0" tabpos="5">
+		<Cursor position="601" topLine="0" />
+	</File>
+	<File name="MyCrypto.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="5273" topLine="0" />
+	</File>
+	<File name="MyCrypto.h" open="1" top="0" tabpos="3">
+		<Cursor position="353" topLine="0" />
+	</File>
+	<File name="Scytale.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="10855" topLine="242" />
+	</File>
+	<File name="Scytale.h" open="1" top="0" tabpos="9">
+		<Cursor position="363" topLine="0" />
+	</File>
+	<File name="Vigenere.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="8985" topLine="0" />
+	</File>
+	<File name="Vigenere.h" open="1" top="0" tabpos="11">
+		<Cursor position="307" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="3457" topLine="0" />
+	</File>
+	<File name="moc_MyCrypto.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="2135" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
